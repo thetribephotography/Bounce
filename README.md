@@ -1,3 +1,7 @@
+Developer Note: This is a basic 2 Actor(User and Admin) Inventory System. My First Project using the Yii-2 Framework.
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
